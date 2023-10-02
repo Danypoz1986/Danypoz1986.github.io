@@ -1,7 +1,11 @@
 h1 {
 	color: orange;
 }
-.type1 {width: 30%; position:absolute; top:50%; left:50%; transform: translate(-50%,-50%); }
+.type1 {width: 30%; 
+	position: absolute; 
+	top: 50%; 
+	left: 50%; 
+	transform: translate(-50%,-50%); }
 
 p {
 	font-size: 130%;
