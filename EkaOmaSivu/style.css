@@ -2,7 +2,14 @@ div{background-color: lightblue;}
 .hienompi{background-color: orange;}
 .punainen{background-color: red; color: black;}
 #ingressi{font-family: arial; font-size: 20px; text-align:center}
-body{max-width: 700px; margin: auto; background-image:url(michel-granger-oxygene.webp);}
+body{max-width: 700px; 
+     margin: auto; 
+     background-image:url(michel-granger-oxygene.webp);
+     background-repeat:no-repeat;
+     background-size: cover;
+     background-position: center;
+  }
+    }
 img{width: 300px; max-width:100%; }
 h2{clear:both; color:forestgreen; text-align:center }
 h1{clear:both; color:cyan; text-align:center }
