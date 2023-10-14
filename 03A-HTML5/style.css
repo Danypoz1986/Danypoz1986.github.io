@@ -36,8 +36,8 @@ footer {
 }
 img { 
 	float: left;
-	width:7%;
-	height:7%;
+	width:9%;
+	height:9%;
 	shape-outside:circle(90%);
 }
 body{
