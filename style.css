@@ -1,6 +1,9 @@
 h1 {
 	color: orange;
 }
+body {
+	background: lightcyan;
+}
 img {
 	width: 50%;
 }
