@@ -16,7 +16,9 @@ div	{display: flex;
 p {
 	font-size: 130%;
 }
-
+nav {
+	font-size:20pt;
+}
 #intro{
 	background-color: yellow;
 }
