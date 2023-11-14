@@ -40,6 +40,7 @@ body {display:flex;
 	flex-wrap:wrap;}
 	
 	h3 {position: absolute;
+	    	text-indent:5px;
 		top:-19px;
 		background-color:rgba(0,0,0,0.4);
 		color:white;
