@@ -102,6 +102,7 @@ textarea {
 .default {
     background-color: #2a2e89;
 	color: #fff;
+	text-indent:5px;
 
 }
 
