@@ -191,7 +191,7 @@ main {
 	jolloin artikkelit asettuvat vierekkäin.*/
 	
 	display: flex; flex-wrap:wrap; justify-content: center;
-	padding:10px 10px 10px;
+	padding:5px 10px 5px;
 }
 
 /*Frame of each "article"*/
