@@ -23,10 +23,9 @@
     border-left-color: white;
 }
     
-#art img {
+img {
     width: 100%;
     height: auto;
-    border: #BFFFF1 3px solid;
 }
 .card-img-top img {
     width: 100px;
