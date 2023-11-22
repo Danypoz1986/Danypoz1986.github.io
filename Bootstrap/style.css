@@ -106,6 +106,6 @@ video {
         padding-top: 5px;
     }
 #inbox li {
-    list-style:none;
+    list-style-type: none;
     position:center;
 }
