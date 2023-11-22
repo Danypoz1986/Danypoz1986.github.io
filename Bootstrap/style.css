@@ -1,0 +1,101 @@
+[class^="col"] {
+    color: black;
+    font-size: 25px;
+    padding-bottom: 5px;
+    position: relative;
+}
+
+.row div {
+    padding:0;
+}
+#head li {
+    margin-right: 50px;
+}
+#head {
+    text-align: center;
+    background: #BFFFF1;
+    font-size: 30px;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-right-width: 10px;
+    border-left-width: 10px;
+    border-right-color: white;
+    border-left-color: white;
+}
+    
+img {
+    width: 100%;
+    height: auto;
+}
+.card-img-top img {
+    width: 100px;
+    height: auto;
+}
+
+
+header h2 {
+    font-size: 25px;
+    text-align: center;
+}
+
+article h3 {
+    font-size: 18px;
+    text-align: left;
+   
+}
+article {
+    padding: 10px 10px 100px 10px;
+    font-size: 18px;
+    text-align: left;
+}
+#art a {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+#foot {
+    border: solid white 10px;
+    border-top-width:30px;
+}
+
+#foot h2 {
+    background: green;
+    text-align:center;
+    font-size:25px;
+    color:yellow;
+    padding:5px;
+}
+#foot h2:hover {
+    background: yellow;
+    color: lightseagreen;
+}
+#art {
+    background: #7CFFCB;
+    border: 10px solid white;
+    border-top-width: 15px;
+}
+ .card-body h5 {
+    text-align: center;
+}
+.card-body h6 {
+    font-size:25px;
+}
+.col-md-4 {
+    border-left-width: 10px;
+    border-left-style: solid;
+    border-left-color: white;
+}
+
+video {
+ width:100%;
+ height:auto;
+ border: solid 5px black;
+}
+#keskiOsa {
+    border:10px white solid;
+}
+#keskiOsa h4 {
+    font-size: 15px;
+    text-align: left;
+    color:black;
+}
