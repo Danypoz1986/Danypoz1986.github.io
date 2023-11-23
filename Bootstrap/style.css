@@ -72,7 +72,7 @@ article {
     left: 10px;
 }
 
-#foot {
+#foot a {
     border: solid white 10px;
     border-top-width:30px;
     text-decoration: none;
