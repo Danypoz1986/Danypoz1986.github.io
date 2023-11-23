@@ -23,8 +23,12 @@
     border-left-color: white;
 }
 h1{
+       font-family: 'Style Script', sans-serif;
+       font-style: normal;
+} 
+h2{
        font-family: 'Oswald', sans-serif;
-       font-style: oblique;
+       font-style: italic;
 } 
 #inbox h6 {
         padding-left: 10px;
