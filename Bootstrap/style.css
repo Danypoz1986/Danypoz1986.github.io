@@ -122,7 +122,7 @@ video {
 }
 
 @include media-breakpoint-up(sm) {
- button #inbox  {
+ btn button {
     margin-left: 500px;
   }
 }
