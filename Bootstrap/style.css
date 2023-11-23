@@ -79,6 +79,7 @@ article {
     font-size:25px;
     color:yellow;
     padding:5px;
+    text-decoration:none;
 }
 #foot h2:hover {
     background: yellow;
