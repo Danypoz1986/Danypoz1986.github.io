@@ -68,11 +68,14 @@ article {
     left: 10px;
 }
 
-#foot a {
+#foot {
     border: solid white 10px;
     border-top-width:30px;
+}
+#foot a {
     text-decoration: none;
 }
+
 
 #foot h2 {
     background: green;
