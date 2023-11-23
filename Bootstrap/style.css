@@ -84,6 +84,7 @@ article {
 #foot h2:hover {
     background: yellow;
     color: lightseagreen;
+    text-decoration:none;
 }
 #art {
     background: #7CFFCB;
