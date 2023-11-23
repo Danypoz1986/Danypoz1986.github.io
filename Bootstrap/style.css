@@ -75,10 +75,10 @@ article {
     border: 10px solid white;
     border-top-width: 15px;
 }
- .card-body h3 {
+ .card-body h5 {
     text-align: center;
 }
-.card-body h6 {
+.card-body h3 {
     font-size:25px;
 }
 .col-md-4 {
