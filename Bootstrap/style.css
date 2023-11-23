@@ -68,6 +68,9 @@ article {
     bottom: 10px;
     left: 10px;
 }
+a {
+    text-decoration:none;
+}
 #foot {
     border: solid white 10px;
     border-top-width:30px;
@@ -84,7 +87,6 @@ article {
 #foot h2:hover {
     background: yellow;
     color: lightseagreen;
-    text-decoration:none;
 }
 #art {
     background: #7CFFCB;
