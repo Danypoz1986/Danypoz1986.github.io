@@ -75,7 +75,7 @@ article {
     border: 10px solid white;
     border-top-width: 15px;
 }
- .card-body h5 {
+ .card-body h3 {
     text-align: center;
 }
 .card-body h6 {
