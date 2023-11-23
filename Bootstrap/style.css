@@ -104,5 +104,6 @@ video {
     }
 #inbox li {
     list-style: none;
-    position:left;
+    display: flex; 
+    justify-content: center; 
 }
