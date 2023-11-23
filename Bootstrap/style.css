@@ -122,8 +122,4 @@ video {
         padding-top: 5px;
 }
 
-@include media-breakpoint-up(sm) {
-  #inbox button {
-    margin-left: 500px;
-  }
-}
+
