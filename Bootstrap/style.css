@@ -1,8 +1,6 @@
 [class^="col"] {
     color: black;
     font-size: 25px;
-    font-family: 'Oswald', sans-serif; 
-    font-style: 'Style Script', cursive;
     padding-bottom: 5px;
     position: relative;
 }
@@ -24,6 +22,10 @@
     border-right-color: white;
     border-left-color: white;
 }
+h1{
+   font-family: 'Oswald', sans-serif; 
+   font-style: 'Style Script', cursive;    
+} 
 #inbox h6 {
         padding-left: 10px;
         padding-right: 10px;
