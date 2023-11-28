@@ -128,5 +128,6 @@ video {
 @include media-breakpoint-down(sm) {
     #head li {
     justify-content: center;
+    margin:0;    
 }
 }
