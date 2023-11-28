@@ -9,7 +9,7 @@
     padding:0;
 }
 #head li {
-    justify-content: left;
+    margin-right:100px;
 }
 #head {
     text-align: center;
