@@ -125,3 +125,8 @@ video {
         padding-right: 10px;
         padding-top: 5px;
 }
+@include media-breakpoint-down(sm) {
+    #head li {
+    justify-content: center;
+}
+}
