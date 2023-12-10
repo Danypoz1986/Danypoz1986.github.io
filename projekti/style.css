@@ -183,10 +183,6 @@ p{
 	width:100%;
 	margin-bottom: 20px;
 }
-#lowIMG{
-	width:100%;
-	height: auto;
-}
 .kortti{
 	display:flex;
 	flex-direction: column;
