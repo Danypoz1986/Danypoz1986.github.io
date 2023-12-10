@@ -252,11 +252,11 @@ p{
 	background: linear-gradient(to right, #9DCBBA, #FCFF4B);
 	margin-bottom:50px;
 }
-#subtitle{
+.row .subtitle{
 	margin-bottom: 10px;
 	padding-top: 10px;
 }
-#subtitle h2{
+.row .subtitle h2{
 	font-size: 35px;
 	color:#54A8F6;
 	font-family: 'oswald', sans-serif;
