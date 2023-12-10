@@ -252,16 +252,25 @@ p{
 	background: linear-gradient(to right, #9DCBBA, #FCFF4B);
 	margin-bottom:50px;
 }
-.subtitle{
+#subtitle{
 	margin-bottom: 10px;
 	padding-top: 10px;
 }
-.subtitle h2{
+#subtitle h2{
 	font-size: 35px;
 	color:#54A8F6;
 	font-family: 'oswald', sans-serif;
 	font-style: italic;
 }
+#subtitle2{
+	margin-bottom: 10px;
+	padding-top: 10px;
+}
+#subtitle2 h2{
+	font-size: 35px;
+	color:#54A8F6;
+	font-family: 'oswald', sans-serif;
+	font-style: italic;
 #euroVetureita{
 	justify-content: center;
 	margin-bottom: 20px;
